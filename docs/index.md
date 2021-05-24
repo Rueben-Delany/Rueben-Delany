@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+# My project name is "Maze game" 
+I am making a maze game on scratch where you go through levels to get an item that will change the looks of the levels when you go back through them, you will then be brought back to the start to claim an item that just makes you win.
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Rueben-Delany/Rueben-Delany/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
